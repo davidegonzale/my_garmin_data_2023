@@ -1,0 +1,40 @@
+﻿month,activity_type,value
+Jan,Running,14
+Feb,Running,16
+Mar,Running,12
+Apr,Running,13
+May,Running,6
+Jun,Running,2
+Jul,Running,12
+Aug,Running,11
+Sep,Running,10
+Oct,Running,2
+Nov,Running,10
+Dec,Running,1
+Jan,Cycling,3
+Apr,Cycling,2
+May,Cycling,6
+Jul,Cycling,4
+Aug,Cycling,6
+Sep,Cycling,3
+Jan,Fitness Equipment,12
+Feb,Fitness Equipment,18
+Mar,Fitness Equipment,17
+Apr,Fitness Equipment,14
+May,Fitness Equipment,7
+Jun,Fitness Equipment,11
+Jul,Fitness Equipment,15
+Aug,Fitness Equipment,17
+Sep,Fitness Equipment,11
+Oct,Fitness Equipment,17
+Nov,Fitness Equipment,15
+Dec,Fitness Equipment,1
+Jan,Hiking,3
+Feb,Hiking,1
+Mar,Hiking,2
+Apr,Hiking,1
+Jun,Hiking,1
+Jul,Hiking,3
+Sep,Hiking,1
+Oct,Hiking,1
+Nov,Hiking,2

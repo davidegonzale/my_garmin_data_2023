@@ -1,0 +1,40 @@
+﻿month,activity_type,total_minutes
+Jan,Running,432.63
+Feb,Running,336.18
+Mar,Running,284.93
+Apr,Running,239.28
+May,Running,152.92
+Jun,Running,43.61
+Jul,Running,245.26
+Aug,Running,230.88
+Sep,Running,275.42
+Oct,Running,42.76
+Nov,Running,213.63
+Dec,Running,12.92
+Jan,Cycling,52.09
+Apr,Cycling,217.16
+May,Cycling,414.04
+Jul,Cycling,104.44
+Aug,Cycling,158.63
+Sep,Cycling,59.37
+Jan,Fitness Equipment,893.96
+Feb,Fitness Equipment,573.74
+Mar,Fitness Equipment,696.5
+Apr,Fitness Equipment,530.12
+May,Fitness Equipment,375.03
+Jun,Fitness Equipment,441.72
+Jul,Fitness Equipment,636.97
+Aug,Fitness Equipment,683.5
+Sep,Fitness Equipment,438.83
+Oct,Fitness Equipment,735.62
+Nov,Fitness Equipment,644.33
+Dec,Fitness Equipment,40.52
+Jan,Hiking,173.22
+Feb,Hiking,46.25
+Mar,Hiking,168.54
+Apr,Hiking,63.57
+Jun,Hiking,62.69
+Jul,Hiking,186.33
+Sep,Hiking,67.53
+Oct,Hiking,35.3
+Nov,Hiking,129.91

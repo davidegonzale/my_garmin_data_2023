@@ -1,0 +1,40 @@
+﻿month,activity_type,total_km
+Jan,Running,66.63
+Feb,Running,53.34
+Mar,Running,45.03
+Apr,Running,37.82
+May,Running,26.08
+Jun,Running,7.01
+Jul,Running,40.88
+Aug,Running,39.65
+Sep,Running,43.64
+Oct,Running,7.02
+Nov,Running,29.52
+Dec,Running,2.01
+Jan,Cycling,10.94
+Apr,Cycling,45.13
+May,Cycling,85.58
+Jul,Cycling,23.29
+Aug,Cycling,35.82
+Sep,Cycling,12.92
+Jan,Fitness Equipment,0
+Feb,Fitness Equipment,0
+Mar,Fitness Equipment,0
+Apr,Fitness Equipment,0
+May,Fitness Equipment,0
+Jun,Fitness Equipment,0
+Jul,Fitness Equipment,0
+Aug,Fitness Equipment,0
+Sep,Fitness Equipment,0
+Oct,Fitness Equipment,0
+Nov,Fitness Equipment,0
+Dec,Fitness Equipment,0
+Jan,Hiking,14.56
+Feb,Hiking,3.98
+Mar,Hiking,12.74
+Apr,Hiking,5.75
+Jun,Hiking,5.25
+Jul,Hiking,12.96
+Sep,Hiking,5.47
+Oct,Hiking,2.25
+Nov,Hiking,10.13
